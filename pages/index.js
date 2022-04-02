@@ -17,6 +17,7 @@ export default function Home() {
             <li><a href="https://www.tiktok.com/@mrfrobsworth">Tiktok</a></li>
             <li>Minecraft Server: 172.241.24.146:11907</li>
             <li><a href="https://www.twitch.tv/xidx">Twitch</a></li>
+            <li><a href="https://discord.gg/b9frAvDX">Discord (Valid until April 8)</a></li>
           </ul>
         </p>
       </main>
