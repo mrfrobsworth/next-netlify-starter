@@ -6,14 +6,18 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>MrFrobsworth</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
+        <Header title="MrFrobsworth's Link List" />
+        <p className="description">      
+          <ul>
+            <li><a href="https://www.tiktok.com/@mrfrobsworth">Tiktok</a></li>
+            <li>Minecraft Server: 172.241.24.146:11907</li>
+            <li><a href="https://www.twitch.tv/xidx">Twitch</a></li>
+          </ul>
         </p>
       </main>
 
